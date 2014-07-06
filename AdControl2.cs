@@ -6,3 +6,4 @@ UI:AdControl x:Name="MsAdControl"
 			 Width="480" 
              ErrorOccurred="Ad_ErrorOccurred"
 			 AdRefreshed="_AdRefreshed"/>
+			 
